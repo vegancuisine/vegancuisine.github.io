@@ -1,10 +1,14 @@
 ---
 title: Sachertorte
-layout: default
+layout: page
+header: no
+image:
+    title: Sachertorte.jpg
+    caption: Sachertorte
 ---
-# Sachertorte
 
-## Teig
+## Zutaten
+### Teig
 
 * 175 g Mehl
 * 40 g Kakao
@@ -20,7 +24,7 @@ layout: default
 Das habe ich von diesem Foodblog: https://lovingitvegan.com/best-vegan-chocolate-cake/
 Ich habe die Zutaten des Rezepts (9inch = 22,86cm Durchmesser) auf eine 18cm-Durchmesser Form umgerechnet (Faktor 0,62).
 
-## Füllung
+### Füllung
 
 * mind. 100 g Aprikosenmarmelade (z.B. Rosenmarille von D'Arbo)
 * Für die Ganache
@@ -32,7 +36,9 @@ Ich habe die Zutaten des Rezepts (9inch = 22,86cm Durchmesser) auf eine 18cm-Dur
 Rezept für Ganache:  https://dasmaedelvomland.blogspot.com/2015/06/der-sachertortentest.html
 (hier kannst du auch weniger nehmen, es ist sehr viel übrig geblieben!)
 
-## Teig herstellen
+## Der Prozess
+
+### Teig herstellen
 
 Ofen auf 180° vorheizen. Kuchenform vorbereiten (Backpapier oder mit Butter einfetten)
 Mehl und Kakaopulver in eine Schüssel sieben. Zucker, Natron und Salz hinzufügen.
@@ -42,14 +48,14 @@ Buttermilch, Vanille, Öl, Apfelessig und Apfelmus in einer Schüssel verrühren
 
 Teig für 30 Minuten backen. Der Teig kann etwas früher oder später fertig sein, je nach Backofen etc. => Stäbchentest!
 
-## Ganache herstellen
+### Ganache herstellen
 
 Zartbitterschokolade fein hacken und in eine Schüssel geben. Mandelmilch mit Zucker und Salz in einen Topf geben und aufkochen. Die heiße Milch über die gehackte Schokolade gießen, sodass die gesamte Schokolade bedeckt ist. Die Schüssel abdecken und 4 Minuten stehen lassen.
 Nach den 4 Minuten das Rapsöl zur Schokolademischung geben und rühren, bis alles gut vermengt, die Schokolade geschmolzen und die Ganache glatt und glänzend geworden ist.
 
 Die Ganache bei Raumtemperatur stehen lassen, damit sie andicken kann. Dabei öfters durchrühren und hin und wieder die Konsistenz prüfen: Sobald sie den Rücken eines Löffels schön überzieht und nur mehr schwer vom Löffel tropft, kann sie zum Glasieren verwendet werden.
 
-## Torte zusammensetzen und glasieren
+### Torte zusammensetzen und glasieren
 
 Tortenboden quer halbieren. Beide Hälften so auf die Arbeitsfläche legen, dass die Innenseiten nach oben zeigen.
 Beide Innenseiten mit jeweils 6 – 7 EL Ganache bestreichen. Kurz einziehen lassen
